@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Detroit Public Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    	<string name="scan_resut_lable">Scan Result:</string>
+	<string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it. </string>
+    <string name="menu_settings">Settings</string>
+    <string name="getdata">Get Data</string>
+    <string name="scan">Scan a Book</string>
+    <string name="thumb">Book thumbnail</string>
+    <string name="pre">Preview</string>
+    <string name="link">Web</string>
+    <string name="bntMainStr">Go To Main</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Search</item>
+        <item >Featured</item>
+        <item >Barcode Search</item>
+        <item >News</item>
+        <item >Events</item>
+        <item >My Account</item>
+        <item >Locations</item>
+        <item >About</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
